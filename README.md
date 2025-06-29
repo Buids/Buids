@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+📫 How to reach me: 
+https://x.com/only_buids
+
 <!--
 **Buids/Buids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
